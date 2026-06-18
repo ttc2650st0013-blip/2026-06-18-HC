@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.bg-lightgray {
+ background-color: #f0f0f0;
+}
+
+.bg-yellow {
+ background-color: yellow;
+}
+
+.bg-transparent {
+ background-color: rgba(0, 128, 255, 0.2);
+}
